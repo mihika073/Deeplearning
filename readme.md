@@ -1,1 +1,1 @@
-#Deep learning - RNN implementation
+#Deep learning 
